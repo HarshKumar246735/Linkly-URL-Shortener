@@ -1,4 +1,6 @@
-Linkly — URL Shortener
+# Linkly — URL Shortener
+LIVE DEMO - https://linkly-url-shortener-gamma.vercel.app/
+<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/b59a332b-9315-4a73-8ab7-ef0b85d3f159" />
 
 Linkly is a URL-shortening application that converts long URLs into compact shareable links and QR codes.
 
